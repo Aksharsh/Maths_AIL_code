@@ -5,10 +5,10 @@ import math
 
 def g_inputs():
     global a
-    a = int(input('Please provide value for a: '))
+    a = int(input('Please provide value for coefficient of X**2: '))
 
     global b
-    b = int(input('Please provide value for b: '))
+    b = int(input('Please provide value for coefficient of x: '))
 
     global c
     c = int(input('Please provide value for c: '))
